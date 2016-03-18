@@ -2,6 +2,7 @@ name: HostKeep Property Portfolio
 favicon: null
 layout_spectrum: 0.032735679065808654
 typography_spectrum: 0.20601067994721234
+title: HostKeep Property Portfolio
 cta:
   domain: null
   bucket: null
