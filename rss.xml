@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[HostKeep Property Portfolio]]></title>
+        <description><![CDATA[HostKeep Property Portfolio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Mar 2016 20:51:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CAVA: Immerse yourself in Richmond]]></title>
+            <description><![CDATA[<article><h1>CAVA: Immerse yourself in Richmond</h1><p>CAVA is a stunning brand new one bedroom apartment on Swan St in Richmond. All the action from nightlife, to sporting events and concerts is on the door step of this amazing apartment. Stunningly styled and with all you could need for an amazing stay.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b3bccef18826b195573603f5434fc9716430630.jpg"></article>]]></description>
+            <link>undefinedcava-immerse-yourself-in-richmond/index.html</link>
+            <guid isPermaLink="false">96a7fde7-3e38-4760-9a5f-cf2c110d45e9</guid>
+            <pubDate>Fri, 18 Mar 2016 20:51:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
